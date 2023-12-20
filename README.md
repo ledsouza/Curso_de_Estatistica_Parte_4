@@ -9,7 +9,7 @@ Projeto de estatística para estudo de correlação e regressão
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Curso de Estatistica Parte 4**
-| :label: Tecnologias | python (numpy, pandas, statsmodel, seaborn)
+| :label: Tecnologias | python, numpy, pandas, statsmodel, seaborn
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/estatistica_4.png#vitrinedev)
